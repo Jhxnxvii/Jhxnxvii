@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <h1>
-  Welcome To My Profile
+ Hi I'm Jhanavi, Welcome To My Profile
 </h1>
 </div>
 <div id="header" align="center">
@@ -14,6 +14,7 @@
  <div align="center"/> 
   <img src="https://komarev.com/ghpvc/?username=Jhxnxvii&style=flat-square&color=blue" alt=""/>
  </div> 
+ 
 <h2>
  :woman_technologist: About Me:
 </h2>
@@ -37,12 +38,22 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack"  alt="Slack" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity"  alt="Unity" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/tree/master/icons/vscode" title="Visual Studio"  alt="Visual Studio" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudio"  alt="VisualStudio" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS"  alt="AWS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender"  alt="Blender" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Linux"  alt="Linux" width="40" height="40"/>&nbsp;
-  
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jhxnxvii&theme=rose)](https://git.io/streak-stats)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhxnxvii&layout=compact)
+
+---
+
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" />
 
 <!--
 **Jhxnxvii/Jhxnxvii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
